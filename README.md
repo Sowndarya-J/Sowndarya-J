@@ -205,3 +205,9 @@ Automation Testing
 Docker & Containerization
 CI/CD
 Git & GitHub
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** [Sowndarya J](https://www.linkedin.com/in/sowndarya-j/)
+
+💻 **GitHub:** [Sowndarya-J](https://github.com/Sowndarya-J)
